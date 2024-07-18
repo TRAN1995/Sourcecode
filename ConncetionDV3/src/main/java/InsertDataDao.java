@@ -26,10 +26,4 @@ public class InsertDataDao {
         }
         return null;
     }
-// Purpose: Test connection DB
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
-        String env = "DEV";
-        InsertDataDao insertDataDao = new InsertDataDao();
-        insertDataDao.InserData(BaseDao.getConnection(env));
-    }
 }
