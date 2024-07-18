@@ -1,0 +1,23 @@
+2024-07-17 15:21:47 [main] INFO  BaseDao - connected: 
+2024-07-17 15:28:03 [main] INFO  BaseDao - connected: 
+2024-07-17 15:28:03 [main] ERROR BaseDao - err: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'assss' for key 'UK_nb4h0p6txrmfc0xbrd1kglp9t'
+2024-07-17 15:28:03 [main] INFO  BaseDao - insert success
+2024-07-17 15:28:23 [main] INFO  BaseDao - connected: 
+2024-07-17 15:28:23 [main] INFO  BaseDao - insert success
+2024-07-18 21:12:45 [main] ERROR BaseDao - err: java.sql.SQLException: ORA-17067: Invalid Oracle URL specified: OracleDataSource.makeURL
+2024-07-18 21:12:45 [main] ERROR BaseDao - err: java.lang.NullPointerException
+2024-07-18 21:12:45 [main] INFO  BaseDao - insert success
+2024-07-18 21:13:53 [main] ERROR BaseDao - err: java.sql.SQLException: ORA-17067: Invalid Oracle URL specified: OracleDataSource.makeURL
+2024-07-18 21:13:53 [main] ERROR BaseDao - err: java.lang.NullPointerException
+2024-07-18 21:13:53 [main] INFO  BaseDao - insert success
+2024-07-18 21:17:02 [main] ERROR BaseDao - err: java.sql.SQLException: ORA-17067: Invalid Oracle URL specified: OracleDataSource.makeURL
+2024-07-18 21:17:02 [main] ERROR BaseDao - err: java.lang.NullPointerException
+2024-07-18 21:17:02 [main] INFO  BaseDao - insert success
+2024-07-18 21:17:25 [main] ERROR BaseDao - err: java.sql.SQLException: ORA-17067: Invalid Oracle URL specified: OracleDataSource.makeURL
+2024-07-18 21:19:32 [main] ERROR BaseDao - err: java.lang.NullPointerException
+2024-07-18 21:19:32 [main] INFO  BaseDao - insert success
+2024-07-18 21:19:54 [main] ERROR BaseDao - err: java.sql.SQLException: ORA-17067: Invalid Oracle URL specified: OracleDataSource.makeURL
+2024-07-18 21:19:54 [main] ERROR BaseDao - err: java.lang.NullPointerException
+2024-07-18 21:19:54 [main] INFO  BaseDao - insert success
+2024-07-18 21:25:00 [main] INFO  BaseDao - connected: 
+2024-07-18 21:25:00 [main] INFO  BaseDao - insert success
